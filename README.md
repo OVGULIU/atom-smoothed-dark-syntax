@@ -6,7 +6,7 @@ Install with apm:
 apm install smoothed-dark-syntax
 ```
 
-A smoothed dark color syntax theme for Atom which was adapted from Todd Werth’s [original IR_Black TextMate Theme](http://toddwerth.com/2007/03/29/ir_black-the-last-textmate-theme-youll-ever-need/).
+A smoothed dark color syntax for Atom adapted from Todd Werthâ€™s ir-black-k-syntax theme.
 
 Colors were smoothed gently for the eyes.
 
