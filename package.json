@@ -1,0 +1,27 @@
+{
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A smoothed dark color syntax for Atom adapted from the ir-black-k-syntax theme.",
+  "engines": {
+    "atom": ">=1.13.0 <2.0.0"
+  },
+  "homepage": "https://github.com/aaortizb/atom-smoothed-dark-syntax#readme",
+  "keywords": [
+    "syntax",
+    "theme",
+    "ir-black",
+    "ir_black",
+    "ir black",
+    "ir",
+    "black",
+    "dark"
+  ],
+  "license": "MIT",
+  "name": "smoothed-dark-syntax",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaortizb/atom-smoothed-dark-syntax"
+  },
+  "theme": "syntax",
+  "version": "0.0.0"
+}
